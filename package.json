@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.2.2",
+    "@types/mocha": "^10.0.10",
+    "chai": "^6.0.1",
+    "ethers": "^5.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "type": "module"
+}
